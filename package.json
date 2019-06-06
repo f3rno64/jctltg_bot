@@ -1,0 +1,32 @@
+{
+  "name": "jctltg-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/f3rno/jctltg_bot.git"
+  },
+  "keywords": [
+    "journalctl",
+    "telegram",
+    "bot"
+  ],
+  "author": "Cris Mihalache <me@f3rno.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/f3rno/jctltg_bot/issues"
+  },
+  "homepage": "https://github.com/f3rno/jctltg_bot#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "dotenv": "^8.0.0",
+    "immutable": "^4.0.0-rc.12",
+    "journalctl": "^1.0.0",
+    "lodash": "^4.17.11",
+    "tgfancy": "^0.13.0"
+  }
+}
