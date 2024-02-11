@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/f3rno/jctltg_bot#readme",
   "dependencies": {
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "dotenv": "^8.0.0",
     "immutable": "^4.0.0-rc.12",
     "journalctl": "^1.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "tgfancy": "^0.13.0"
   }
 }
